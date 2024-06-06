@@ -9,3 +9,8 @@ const userDetails = {
 
 // expected output :
 // ['kaylin khanal', 'gopal tharu']
+//HIT: MAP IN ARR
+//syntax:
+// arr.map((item)=>{
+    //yedi  userDetails[item] return
+// })
